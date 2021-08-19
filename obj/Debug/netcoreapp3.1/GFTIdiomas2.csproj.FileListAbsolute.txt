@@ -1,0 +1,13 @@
+C:\Users\Desenvolvimento\source\repos\GFTIdiomas2\GFTIdiomas2\obj\Debug\netcoreapp3.1\GFTIdiomas2.csprojAssemblyReference.cache
+C:\Users\Desenvolvimento\source\repos\GFTIdiomas2\GFTIdiomas2\obj\Debug\netcoreapp3.1\GFTIdiomas2.AssemblyInfoInputs.cache
+C:\Users\Desenvolvimento\source\repos\GFTIdiomas2\GFTIdiomas2\obj\Debug\netcoreapp3.1\GFTIdiomas2.AssemblyInfo.cs
+C:\Users\Desenvolvimento\source\repos\GFTIdiomas2\GFTIdiomas2\obj\Debug\netcoreapp3.1\GFTIdiomas2.csproj.CoreCompileInputs.cache
+C:\Users\Desenvolvimento\source\repos\GFTIdiomas2\GFTIdiomas2\bin\Debug\netcoreapp3.1\GFTIdiomas2.exe
+C:\Users\Desenvolvimento\source\repos\GFTIdiomas2\GFTIdiomas2\bin\Debug\netcoreapp3.1\GFTIdiomas2.deps.json
+C:\Users\Desenvolvimento\source\repos\GFTIdiomas2\GFTIdiomas2\bin\Debug\netcoreapp3.1\GFTIdiomas2.runtimeconfig.json
+C:\Users\Desenvolvimento\source\repos\GFTIdiomas2\GFTIdiomas2\bin\Debug\netcoreapp3.1\GFTIdiomas2.runtimeconfig.dev.json
+C:\Users\Desenvolvimento\source\repos\GFTIdiomas2\GFTIdiomas2\bin\Debug\netcoreapp3.1\GFTIdiomas2.dll
+C:\Users\Desenvolvimento\source\repos\GFTIdiomas2\GFTIdiomas2\bin\Debug\netcoreapp3.1\GFTIdiomas2.pdb
+C:\Users\Desenvolvimento\source\repos\GFTIdiomas2\GFTIdiomas2\obj\Debug\netcoreapp3.1\GFTIdiomas2.dll
+C:\Users\Desenvolvimento\source\repos\GFTIdiomas2\GFTIdiomas2\obj\Debug\netcoreapp3.1\GFTIdiomas2.pdb
+C:\Users\Desenvolvimento\source\repos\GFTIdiomas2\GFTIdiomas2\obj\Debug\netcoreapp3.1\GFTIdiomas2.genruntimeconfig.cache
